@@ -1,7 +1,7 @@
 # Test
 
-descriptive text
+descriptive texte
 
 ## subheader
 
-watch
+watch now
